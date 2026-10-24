@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-10-24 | 2.6.1 | [v2.6.1](https://github.com/paironce/core/releases/tag/v2.6.1) | Homepage polish: the code no longer runs under the QR on 1000–1200 px screens, the headline stays put when the card changes, steps and promises are compact on phones, saved devices one per row, a visible copy-code button. Core code unchanged from v2.6.0. |
 | 2026-10-24 | 2.6.0 | [v2.6.0](https://github.com/paironce/core/releases/tag/v2.6.0) | Homepage redesigned: headline with one trust line, this device above the connect card, tabs to show or enter a code, one primary action, numbered steps and unboxed sections; footer in three labelled groups with the language folded to one line; new and removed interface strings in locales. Core code unchanged from v2.5.0. |
 | 2026-10-24 | 2.5.0 | [v2.5.0](https://github.com/paironce/core/releases/tag/v2.5.0) | Connected screen redesigned: one status line, one list of everything sent and received, one input at the bottom; new and removed interface strings in locales. Core code unchanged from v2.4.0. |
 | 2026-10-24 | 2.4.0 | [v2.4.0](https://github.com/paironce/core/releases/tag/v2.4.0) | Pro 7-day pass; guide "Direct transfer or a cloud drive"; zod 4.6.7 for GHSA-mrhx-c7xc-m3w5 (protocol dependency). Core code unchanged from v2.3.0. |
