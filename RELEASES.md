@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-10-24 | 2.5.0 | [v2.5.0](https://github.com/paironce/core/releases/tag/v2.5.0) | Connected screen redesigned: one status line, one list of everything sent and received, one input at the bottom; new and removed interface strings in locales. Core code unchanged from v2.4.0. |
 | 2026-10-24 | 2.4.0 | [v2.4.0](https://github.com/paironce/core/releases/tag/v2.4.0) | Pro 7-day pass; guide "Direct transfer or a cloud drive"; zod 4.6.7 for GHSA-mrhx-c7xc-m3w5 (protocol dependency). Core code unchanged from v2.3.0. |
 | 2026-10-24 | 2.3.0 | [v2.3.0](https://github.com/paironce/core/releases/tag/v2.3.0) | Visit statistics move from Google Analytics to Cloudflare Web Analytics (no cookies, no consent banner); a few anonymous counters; the Pro offer says what Pro does for the problem shown; one-line description in every footer. New and removed interface strings in locales. Core code unchanged from v2.2.0. |
 | 2026-10-23 | 2.2.0 | [v2.2.0](https://github.com/paironce/core/releases/tag/v2.2.0) | Files up to 10 GB when one of the two devices has Pro: protocol adds `MAX_FILE_BYTES`, the `hugeFiles` and `pro` hello flags, and up to 1,048,576 chunks per file; core's binary frames accept the larger chunk index. New interface strings in locales. |
