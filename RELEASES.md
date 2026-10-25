@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-10-24 | 2.9.1 | [v2.9.1](https://github.com/paironce/core/releases/tag/v2.9.1) | One logo everywhere: the page shows the app icon tile (same as the home-screen icon) in light and dark mode. Appearance choice (match device, light, dark), shared by the browser and the installed app; the site description says files are never stored on our servers. Core code unchanged from v2.9.0. |
 | 2026-10-24 | 2.9.0 | [v2.9.0](https://github.com/paironce/core/releases/tag/v2.9.0) | Scanner v1 (free): photos of paper become one PDF on the device — the page is found automatically, four corners to fine-tune, perspective flattened, light evened out (document, colour, black and white), several pages, sent like any file. Counts scans by page count only. Core code unchanged from v2.8.0. |
 | 2026-10-24 | 2.8.0 | [v2.8.0](https://github.com/paironce/core/releases/tag/v2.8.0) | Pro page rebuilt: value first, Free and Pro side by side, the 7-day pass for short needs; yearly plan $19.99; lifetime no longer sold (licences already sold keep working); the connected screen says how large a file this connection can send. Core code unchanged from v2.7.1. |
 | 2026-10-24 | 2.7.1 | [v2.7.1](https://github.com/paironce/core/releases/tag/v2.7.1) | The one-line description (footer, guides, llms.txt, GitHub) says "files never stored on a server" instead of "nothing stored on a server", in all locales. Core code unchanged from v2.7.0. |
