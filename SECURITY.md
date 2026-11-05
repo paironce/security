@@ -2,8 +2,7 @@
 
 ## Reporting a vulnerability
 
-Email **security@paironce.com** (until that address is live: support@paironce.com, subject starting "SECURITY"). Please do
-not open a public issue for a vulnerability.
+Email **security@paironce.com**. Please do not open a public issue for a vulnerability.
 
 Include what you found, how to reproduce it, and what an attacker gains. We answer within 3 working days, agree a fix and
 disclosure date with you (normally within 90 days), and credit you in the advisory unless you prefer otherwise.
@@ -11,6 +10,7 @@ disclosure date with you (normally within 90 days), and credit you in the adviso
 ## Scope
 
 - The protocol (`protocol` repository) and the core library (`core`, published as `@paironce/core`).
+- The command-line tool and MCP server (`cli`, published as `paironce`).
 - The production service at paironce.com, for issues that break the protocol's promises (for example, reading content,
   joining a pairing without approval, or using the relay without a valid credential).
 
