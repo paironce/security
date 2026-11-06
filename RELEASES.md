@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-06 | 2.32.4 | [v2.32.4](https://github.com/paironce/core/releases/tag/v2.32.4) | While a link asks for confirmation, the page no longer says it is looking for devices, and on a small phone the buttons come into view. Core code unchanged. |
 | 2026-11-06 | 2.32.3 | [v2.32.3](https://github.com/paironce/core/releases/tag/v2.32.3) | A scheduled cleanup long past due is set again, so the connection directory and the relay's usage readings run on time. Updated terms and privacy policy, effective November 8. Core code unchanged. |
 | 2026-11-05 | 2.32.2 | [v2.32.2](https://github.com/paironce/core/releases/tag/v2.32.2) | The connection code directory clears expired codes whenever a new code is made and counts what is really there, so expired codes do not stay or use up its capacity. Core code unchanged. |
 | 2026-11-05 | 2.32.1 | [v2.32.1](https://github.com/paironce/core/releases/tag/v2.32.1) | Every guide states today's size limits by browser. The transfer guide adds the confirmation step, finding devices on the same Wi-Fi and the other tools. llms.txt lists the policies. New guides: a LocalSend comparison, Mac and Windows, large files with no account (English). Core code unchanged. |
