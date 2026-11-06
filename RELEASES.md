@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-06 | 2.32.8 | [v2.32.8](https://github.com/paironce/core/releases/tag/v2.32.8) | With JavaScript turned off, the connection card says that PairOnce needs it. The demo video has no focus line along its top edge. On the tunnel every frame counts as at least 1 KiB of the relay allowance. A scan PDF is read for text only when its pictures really are within the page size limit. Core code unchanged. |
 | 2026-11-06 | 2.32.7 | [v2.32.7](https://github.com/paironce/core/releases/tag/v2.32.7) | On a touch screen the demo video's close button sits above the picture, clear of the player's own buttons. Core code unchanged. |
 | 2026-11-06 | 2.32.6 | [v2.32.6](https://github.com/paironce/core/releases/tag/v2.32.6) | On a phone, the message about a code or link that did not work comes into view. Core code unchanged. |
 | 2026-11-06 | 2.32.5 | [v2.32.5](https://github.com/paironce/core/releases/tag/v2.32.5) | While a link asks for confirmation, saved devices step aside, so its Connect is the only one on the page. On a phone the connection line wraps, so the relay allowance left can be read in full. Core code unchanged. |
