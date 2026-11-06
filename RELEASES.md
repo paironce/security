@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-06 | 2.32.6 | [v2.32.6](https://github.com/paironce/core/releases/tag/v2.32.6) | On a phone, the message about a code or link that did not work comes into view. Core code unchanged. |
 | 2026-11-06 | 2.32.5 | [v2.32.5](https://github.com/paironce/core/releases/tag/v2.32.5) | While a link asks for confirmation, saved devices step aside, so its Connect is the only one on the page. On a phone the connection line wraps, so the relay allowance left can be read in full. Core code unchanged. |
 | 2026-11-06 | 2.32.4 | [v2.32.4](https://github.com/paironce/core/releases/tag/v2.32.4) | While a link asks for confirmation, the page no longer says it is looking for devices, and on a small phone the buttons come into view. Core code unchanged. |
 | 2026-11-06 | 2.32.3 | [v2.32.3](https://github.com/paironce/core/releases/tag/v2.32.3) | A scheduled cleanup long past due is set again, so the connection directory and the relay's usage readings run on time. Updated terms and privacy policy, effective November 8. Core code unchanged. |
