@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-07 | 2.33.0 | [v2.33.0](https://github.com/paironce/core/releases/tag/v2.33.0) | Stripe events are applied once, whatever their order. Each dispute keeps its own state: Pro comes back only when no dispute is open, and a relay pack's balance stays right through repeats, late events and refunds. Core code unchanged. |
 | 2026-11-07 | 2.32.11 | [v2.32.11](https://github.com/paironce/core/releases/tag/v2.32.11) | A new guide with dated test results for large files and resume, linked from related guides. Core code unchanged. |
 | 2026-11-07 | 2.32.10 | [v2.32.10](https://github.com/paironce/core/releases/tag/v2.32.10) | New About and Security pages, linked from the footer. Core code unchanged. |
 | 2026-11-06 | 2.32.9 | [v2.32.9](https://github.com/paironce/core/releases/tag/v2.32.9) | A new guide on end-to-end encrypted transfer in the browser. Shorter titles and descriptions on the English guides, and more links between them. The footer links to the LocalSend and Snapdrop comparisons. Core code unchanged. |
