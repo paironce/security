@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-07 | 2.33.1 | [v2.33.1](https://github.com/paironce/core/releases/tag/v2.33.1) | A device that reaches the relay over TCP or TLS now paces what it sends, so a large file keeps moving where it used to stall for a minute or more. Core code unchanged. |
 | 2026-11-07 | 2.33.0 | [v2.33.0](https://github.com/paironce/core/releases/tag/v2.33.0) | Stripe events are applied once, whatever their order. Each dispute keeps its own state: Pro comes back only when no dispute is open, and a relay pack's balance stays right through repeats, late events and refunds. Core code unchanged. |
 | 2026-11-07 | 2.32.11 | [v2.32.11](https://github.com/paironce/core/releases/tag/v2.32.11) | A new guide with dated test results for large files and resume, linked from related guides. Core code unchanged. |
 | 2026-11-07 | 2.32.10 | [v2.32.10](https://github.com/paironce/core/releases/tag/v2.32.10) | New About and Security pages, linked from the footer. Core code unchanged. |
