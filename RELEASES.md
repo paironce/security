@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-07 | 2.32.10 | [v2.32.10](https://github.com/paironce/core/releases/tag/v2.32.10) | New About and Security pages, linked from the footer. Core code unchanged. |
 | 2026-11-06 | 2.32.9 | [v2.32.9](https://github.com/paironce/core/releases/tag/v2.32.9) | A new guide on end-to-end encrypted transfer in the browser. Shorter titles and descriptions on the English guides, and more links between them. The footer links to the LocalSend and Snapdrop comparisons. Core code unchanged. |
 | 2026-11-06 | 2.32.8 | [v2.32.8](https://github.com/paironce/core/releases/tag/v2.32.8) | With JavaScript turned off, the connection card says that PairOnce needs it. The demo video has no focus line along its top edge. On the tunnel every frame counts as at least 1 KiB of the relay allowance. A scan PDF is read for text only when its pictures really are within the page size limit. Core code unchanged. |
 | 2026-11-06 | 2.32.7 | [v2.32.7](https://github.com/paironce/core/releases/tag/v2.32.7) | On a touch screen the demo video's close button sits above the picture, clear of the player's own buttons. Core code unchanged. |
