@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-09 | 2.33.4 | [v2.33.4](https://github.com/paironce/core/releases/tag/v2.33.4) | The scan, clipboard and phone camera guides in 12 more languages. Core code unchanged. |
 | 2026-11-09 | 2.33.3 | [v2.33.3](https://github.com/paironce/core/releases/tag/v2.33.3) | Two new guides: continuing an interrupted transfer, and what to check when Windows Nearby sharing does not work. The Windows wording in three guides now follows Microsoft's page. Core code unchanged. |
 | 2026-11-09 | 2.33.2 | [v2.33.2](https://github.com/paironce/core/releases/tag/v2.33.2) | Two new guides: viewing the phone camera live on a computer, and what to do when Quick Share does not work. The large-file and Mac–Windows guides in 12 more languages. Core code unchanged. |
 | 2026-11-07 | 2.33.1 | [v2.33.1](https://github.com/paironce/core/releases/tag/v2.33.1) | A device that reaches the relay over TCP or TLS now paces what it sends, so a large file keeps moving where it used to stall for a minute or more. Core code unchanged. |
