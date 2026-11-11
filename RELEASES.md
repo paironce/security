@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-11 | 2.33.9 | [v2.33.9](https://github.com/paironce/core/releases/tag/v2.33.9) | A new guide: PairOnce as a PairDrop alternative, with a safety code you compare and resume for large files. Core code unchanged. |
 | 2026-11-11 | 2.33.8 | [v2.33.8](https://github.com/paironce/core/releases/tag/v2.33.8) | While a connection takes longer, the waiting card says why: a network that blocks the direct path means the encrypted relay, about 20 seconds. The same-Wi-Fi list is refreshed every 8 seconds, so twice as many devices on one network can look at once. |
 | 2026-11-10 | 2.33.7 | [v2.33.7](https://github.com/paironce/core/releases/tag/v2.33.7) | The phone camera guide shows Live picture step by step, and the tested large-file page leads with its results. Core code unchanged. |
 | 2026-11-09 | 2.33.6 | [v2.33.6](https://github.com/paironce/core/releases/tag/v2.33.6) | The Nearby sharing, interrupted-transfer, LocalSend and Snapdrop guides in 12 more languages. Core code unchanged. |
