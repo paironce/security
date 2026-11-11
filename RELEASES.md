@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-10 | 2.33.7 | [v2.33.7](https://github.com/paironce/core/releases/tag/v2.33.7) | The phone camera guide shows Live picture step by step, and the tested large-file page leads with its results. Core code unchanged. |
 | 2026-11-09 | 2.33.6 | [v2.33.6](https://github.com/paironce/core/releases/tag/v2.33.6) | The Nearby sharing, interrupted-transfer, LocalSend and Snapdrop guides in 12 more languages. Core code unchanged. |
 | 2026-11-09 | 2.33.5 | [v2.33.5](https://github.com/paironce/core/releases/tag/v2.33.5) | The Quick Share guide in 12 more languages. Core code unchanged. |
 | 2026-11-09 | 2.33.4 | [v2.33.4](https://github.com/paironce/core/releases/tag/v2.33.4) | The scan, clipboard and phone camera guides in 12 more languages. Core code unchanged. |
