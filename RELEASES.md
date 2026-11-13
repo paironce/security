@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-14 | 2.33.12 | [v2.33.12](https://github.com/paironce/core/releases/tag/v2.33.12) | A new guide: PairOnce as a WeTransfer alternative, with no account and no upload. The Snapdrop guides link the ShareDrop page. Core code unchanged. |
 | 2026-11-13 | 2.33.11 | [v2.33.11](https://github.com/paironce/core/releases/tag/v2.33.11) | A new guide: PairOnce as a ShareDrop alternative, with an encrypted relay for blocked networks, files saved to disk and resume. Core code unchanged. |
 | 2026-11-13 | 2.33.10 | [v2.33.10](https://github.com/paironce/core/releases/tag/v2.33.10) | A new guide on sharing your screen between two computers. The two Snapdrop guides describe what snapdrop.net does today, in 13 languages. /contact, /support, /help, /faq, /privacy-policy and /legal lead to the pages that answer them. Core code unchanged. |
 | 2026-11-11 | 2.33.9 | [v2.33.9](https://github.com/paironce/core/releases/tag/v2.33.9) | A new guide: PairOnce as a PairDrop alternative, with a safety code you compare and resume for large files. Core code unchanged. |
