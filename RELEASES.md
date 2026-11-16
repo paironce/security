@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-16 | 2.33.14 | [v2.33.14](https://github.com/paironce/core/releases/tag/v2.33.14) | A new guide: the PairOnce MCP server that lets an AI agent send files to your phone, with setup for Claude Code, Codex, Cursor, Gemini CLI, Claude Desktop and VS Code. Commands in guides show as code. Core code unchanged. |
 | 2026-11-14 | 2.33.13 | [v2.33.13](https://github.com/paironce/core/releases/tag/v2.33.13) | A new guide: Quick Share with an iPhone, what works on each phone. The Quick Share device list in the iPhone–Android photos guide follows Google's help page in 13 languages, and the WeTransfer and ShareDrop pages link their sources. Core code unchanged. |
 | 2026-11-14 | 2.33.12 | [v2.33.12](https://github.com/paironce/core/releases/tag/v2.33.12) | A new guide: PairOnce as a WeTransfer alternative, with no account and no upload. The Snapdrop guides link the ShareDrop page. Core code unchanged. |
 | 2026-11-13 | 2.33.11 | [v2.33.11](https://github.com/paironce/core/releases/tag/v2.33.11) | A new guide: PairOnce as a ShareDrop alternative, with an encrypted relay for blocked networks, files saved to disk and resume. Core code unchanged. |
