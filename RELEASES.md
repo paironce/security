@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-19 | 2.35.4 | [v2.35.4](https://github.com/paironce/core/releases/tag/v2.35.4) | The tools comparison gains a table: six common tools in eight situations, from each tool’s own pages. The Android to Mac guide now says supported Android phones reach a Mac with Quick Share through AirDrop, in all 13 languages. Core code unchanged. |
 | 2026-11-19 | 2.35.3 | [v2.35.3](https://github.com/paironce/core/releases/tag/v2.35.3) | Guides can end a section with a small table that scrolls inside its own box on a phone. The tools comparison opens with the cases PairOnce fits, eight comparison pages link to it, and the AirDrop guide now says supported Android phones reach iPhones and Macs with Quick Share, in all 13 languages. Core code unchanged. |
 | 2026-11-18 | 2.35.2 | [v2.35.2](https://github.com/paironce/core/releases/tag/v2.35.2) | A new English guide compares 18 ways to move a file between devices, each from its own pages, and says when another tool fits better. Core code unchanged. |
 | 2026-11-18 | 2.35.1 | [v2.35.1](https://github.com/paironce/core/releases/tag/v2.35.1) | Share appears on a received file only where the browser can share that type: in Chrome on Android that is pictures, video, audio, PDF and text. Over the relay, the largest file is named in the same units as the allowance left. Core code unchanged. |
