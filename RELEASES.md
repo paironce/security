@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-21 | 2.35.5 | [v2.35.5](https://github.com/paironce/core/releases/tag/v2.35.5) | The AI agent guide leads with two uses, a PDF to the phone and a photo of a label read by the agent, and covers the twelve tools of CLI 0.12.0, including status and cancel. Core code unchanged. |
 | 2026-11-19 | 2.35.4 | [v2.35.4](https://github.com/paironce/core/releases/tag/v2.35.4) | The tools comparison gains a table: six common tools in eight situations, from each tool’s own pages. The Android to Mac guide now says supported Android phones reach a Mac with Quick Share through AirDrop, in all 13 languages. Core code unchanged. |
 | 2026-11-19 | 2.35.3 | [v2.35.3](https://github.com/paironce/core/releases/tag/v2.35.3) | Guides can end a section with a small table that scrolls inside its own box on a phone. The tools comparison opens with the cases PairOnce fits, eight comparison pages link to it, and the AirDrop guide now says supported Android phones reach iPhones and Macs with Quick Share, in all 13 languages. Core code unchanged. |
 | 2026-11-18 | 2.35.2 | [v2.35.2](https://github.com/paironce/core/releases/tag/v2.35.2) | A new English guide compares 18 ways to move a file between devices, each from its own pages, and says when another tool fits better. Core code unchanged. |
