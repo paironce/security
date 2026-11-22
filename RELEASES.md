@@ -6,6 +6,7 @@ each paironce.com version, also when their content did not change.
 
 | Date | paironce.com | @paironce/core | Notes |
 | --- | --- | --- | --- |
+| 2026-11-22 | 2.35.7 | [v2.35.7](https://github.com/paironce/core/releases/tag/v2.35.7) | The home page title says what PairOnce does: send files from phone to computer, free, no app, in all 13 languages. Core code unchanged. |
 | 2026-11-22 | 2.35.6 | [v2.35.6](https://github.com/paironce/core/releases/tag/v2.35.6) | The home page description leads with Pair once, send anything, in all 13 languages. The About page lists Chromebook and iPad and says the protocol, threat model and Apache-2.0 library are public to check. The tools comparison names the browsers that resume. Core code unchanged. |
 | 2026-11-21 | 2.35.5 | [v2.35.5](https://github.com/paironce/core/releases/tag/v2.35.5) | The AI agent guide leads with two uses, a PDF to the phone and a photo of a label read by the agent, and covers the twelve tools of CLI 0.12.0, including status and cancel. Core code unchanged. |
 | 2026-11-19 | 2.35.4 | [v2.35.4](https://github.com/paironce/core/releases/tag/v2.35.4) | The tools comparison gains a table: six common tools in eight situations, from each tool’s own pages. The Android to Mac guide now says supported Android phones reach a Mac with Quick Share through AirDrop, in all 13 languages. Core code unchanged. |
